@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29a945cb.css",
+    "main.js": "/static/js/main.36e8e3ac.js",
+    "static/js/27.96c088d4.chunk.js": "/static/js/27.96c088d4.chunk.js",
+    "static/media/ExperienceBackground.jpg": "/static/media/ExperienceBackground.17ce460bcb0b8087b537.jpg",
+    "static/media/Profil_.jpg": "/static/media/Profil_.f37b9016d282eea5abaa.jpg",
+    "static/media/KartallarPalet.jpg": "/static/media/KartallarPalet.533a344fbb82964b5a92.jpg",
+    "static/media/Cetsa.jpg": "/static/media/Cetsa.ea051b0e3eb9fe69b862.jpg",
+    "static/media/Vardendi.jpg": "/static/media/Vardendi.7bf26ebf93b3eb91a28a.jpg",
+    "static/media/BumeShop.jpg": "/static/media/BumeShop.ab24170a8e3f03a17de9.jpg",
+    "static/media/Vays.jpg": "/static/media/Vays.a1384fb2f7affc7e9676.jpg",
+    "static/media/DreamtimeHotel.jpg": "/static/media/DreamtimeHotel.6304d7971ec46eb784e8.jpg",
+    "static/media/Kreatif_destek.jpg": "/static/media/Kreatif_destek.7c503ff6a41e98ffc9bd.jpg",
+    "static/media/Carlos.jpg": "/static/media/Carlos.5d73ca5280c1515e180f.jpg",
+    "static/media/Wordpress.png": "/static/media/Wordpress.f593f3ace783bc2b91ae.png",
+    "static/media/FacebookADS.png": "/static/media/FacebookADS.236c8f3d9a486e356740.png",
+    "static/media/Css.png": "/static/media/Css.e5a09b533b0bcedce41a.png",
+    "static/media/Html.png": "/static/media/Html.8cddb3b603b4e7137ee0.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.8269a47161d39d08c4fc.png",
+    "static/media/Photoshop.png": "/static/media/Photoshop.a329a95e0211d6881a54.png",
+    "static/media/React.png": "/static/media/React.f2ff1ccdc62f68821ef3.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.29a945cb.css",
+    "static/js/main.36e8e3ac.js"
+  ]
+}
